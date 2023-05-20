@@ -1,0 +1,126 @@
+h1{
+    text-align: center;
+    color: #AB875F;
+    background-color: #F2EFEB;
+
+}
+
+.ukiyo{
+    display: flex;
+    justify-content: center;
+
+}
+
+body{
+    justify-content: center;
+    background-color: #F2EFEB;
+}
+
+.menu{
+    display: flex;
+    justify-content: center;
+
+}
+
+div.DC{
+    text-align: center;
+    color: #AB875F;
+    font-size: 200%;
+
+}
+
+.DCP{
+    display: flex;
+    justify-content: center;
+
+}
+
+div.IFS{
+    text-align: center;
+    color: #AB875F;
+    font-size: 200%;
+
+}
+
+.IFSP{
+    display: flex;
+    justify-content: center;
+
+}
+
+div.ML{
+    text-align: center;
+    color: #AB875F;
+    font-size: 200%;
+}
+
+.MLP{
+    display: flex;
+    justify-content: center;
+
+}
+
+div.SL{
+    text-align: center;
+    color: #AB875F;
+    font-size: 200%;
+
+}
+
+.SLP{
+    display: flex;
+    justify-content: center;
+   
+}
+
+div.MSS{
+    text-align: center;
+    color: #AB875F;
+    font-size: 200%;
+
+}
+
+.MSSP{
+    display: flex;
+    justify-content: center;
+     
+}
+
+div.MS{
+    text-align: center;
+    color: #AB875F;
+    font-size: 200%;
+   
+}
+
+.MSP{
+    display: flex;
+    justify-content: center;
+
+}
+
+div.SS{
+    text-align: center;
+    color: #AB875F;
+    font-size: 200%;
+     
+}
+
+.SSP{
+    display: flex;
+    justify-content: center;
+
+}
+
+h2{
+    text-align: center;
+    color: #AB875F;
+    background-color: #F2EFEB;
+
+}
+
+.VISIT{
+    display: flex;
+    justify-content: center;
+
+}
